@@ -1,0 +1,15 @@
+.box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+
+.outer {
+    background-color: red;
+}
+
+.inner {
+    background-color: seagreen;
+    transform: scale(0.75) rotate(45deg);
+}
